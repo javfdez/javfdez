@@ -5,6 +5,11 @@ I am 🦠**biotechnologist**🔬 with a Master's degree in 🏞️🍁**Environm
 
 Here I will upload the different projects I complete during my learning process, as well as some personal ones that I could develop during that time.
 
+## 42 Stats
+------------------------------------------------------------
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/javferna)](https://github.com/JaeSeoKim/badge42)
+
+## GitHub Stats
+--------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiff8&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiff8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
